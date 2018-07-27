@@ -5,6 +5,9 @@ tags:
     - python
     - javascript
     - .net
+speaker:
+    name: 'Daniel Shiffman'
+    twitter: shiffman
 title: 'Code Dictation Experiments and Bike Accident Update'
 language: English
 recordingDate: 1500598360
